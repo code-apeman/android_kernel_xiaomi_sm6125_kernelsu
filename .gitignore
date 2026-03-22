@@ -128,3 +128,6 @@ kernel/configs/android-*.cfg
 #Ignoring Android.bp link file
 #
 Android.bp
+
+# Output directory (from guide at https://gist.github.com/davidgarland/ae6da821016fde4c877973ddd3f8f116)
+/out
